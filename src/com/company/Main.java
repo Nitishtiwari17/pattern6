@@ -6,7 +6,7 @@ public class Main {
         int a=65;
         for(int i=0;i<6;i++)
         {
-            for(int k=5;k>i;k--)
+            for(int l=5;l>i;l--);
             {
                 System.out.print(" ");
             }
